@@ -4,4 +4,4 @@ numpy
 seaborn
 sklearn
 nltk
-pickle
+python
