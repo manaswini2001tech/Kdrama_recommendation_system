@@ -3,6 +3,8 @@ import pickle
 import pandas as pd
 st.title('Kdrama Recommender System')
 
+st.beta_set_page_config(page_title='Kdrama-Addicts | Kdrama Recommender')
+
 def recommend(movie):
         movie = movie.casefold()
         index = movies[movies['Name'] == movie].index[0]
