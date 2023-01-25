@@ -1,6 +1,6 @@
 ﻿# Kdrama_recommendation_system
 ## Deployed Website Link:
-https://kdramaaddictsrecommend.herokuapp.com/
+https://manaswini2001tech-kdrama-recommendation-system-app-tgngck.streamlit.app/
 ## To run locally:
 streamlit run "app.py"
 ## Dataset
